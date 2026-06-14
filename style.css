@@ -200,11 +200,26 @@ transition:.3s;
 transform:scale(1.03);
 }
 
+.gallery p{
+text-align:center;
+margin-top:10px;
+font-weight:600;
+}
+
 /* CONTACT */
 
 #contact{
 text-align:center;
 background:#111827;
+}
+
+#contact a{
+color:#38bdf8;
+text-decoration:none;
+}
+
+#contact a:hover{
+text-decoration:underline;
 }
 
 /* FOOTER */
